@@ -108,7 +108,7 @@ a:hover{
 }
 
 .about-container > p {
-    color: darkgray;
+    color: brown
     margin-bottom: 10px;
 }
 
@@ -143,5 +143,5 @@ a:hover{
 #about-para{
     margin-top: 2rem;
     text-align: justify;
-    color: darkgray;
+    color: rgb(82, 18, 18);
 }
